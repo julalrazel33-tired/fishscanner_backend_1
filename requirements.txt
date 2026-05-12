@@ -1,7 +1,7 @@
-fastapi==0.136.1
-inference==1.2.7
-inference_cli==1.2.7
-inference_sdk==1.2.7
-pydantic==2.13.4
-python-dotenv==1.2.2
-SQLAlchemy==2.0.49
+fastapi
+inference
+inference_cli
+inference_sdk
+pydantic
+python-dotenv
+SQLAlchemy
