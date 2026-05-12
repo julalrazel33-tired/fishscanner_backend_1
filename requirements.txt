@@ -5,4 +5,4 @@ inference_sdk
 pydantic
 python-dotenv
 SQLAlchemy
-uvicorn
+uvicorn[standard]
